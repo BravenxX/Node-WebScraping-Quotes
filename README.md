@@ -8,4 +8,5 @@ Analisis de pagina web: http://quotes.toscrape.com/ con el objetivo de obtener c
 
 ## Empezar
 
-1. npm start
+1. npm i
+2. npm start
