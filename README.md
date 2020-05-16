@@ -2,10 +2,10 @@
 
 José N.
 
-# Concepto
+## Concepto
 
 Analisis de pagina web: http://quotes.toscrape.com/ con el objetivo de obtener citas con autores y tags en un archivo csv.
 
-# Empezar
+## Empezar
 
 1. npm start
